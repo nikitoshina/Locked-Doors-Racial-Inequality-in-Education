@@ -8,9 +8,9 @@ University of San Francisco
 
 December 3, 2020
 
-**Locked Doors**
+# Locked Doors
 
-**Social lifts and their importance in the U.S.**
+## Social lifts and their importance in the U.S.
 
 The United States of America was built on the values of equality and liberty for all. Do not confuse the American understanding of equality with the European notion of &quot;Everyone ending up equal,&quot; which implies an equal status, income, et cetera. In the U.S., people are given liberty to end up where ever their abilities, work ethics, and ambitions take them, meaning unequal. For that reason, NBA league players earn significantly more than doctors and software engineers. This idea is what makes the American dream possible — the self-made person who achieved wealth and high status through their hard work and dedication. Clearly, social mobility is essential for the U.S. to support its values. Nevertheless, does everyone have the same opportunity to use the gift of liberty?
 
@@ -59,7 +59,7 @@ Similarly, Ivy league schools have not achieved equal representation of all appl
 
 To sum up, there is no stark underrepresentation of minorities in the education system in general. However, minorities have less access to the top tier opportunities, which provide the best mobility. To create a fairer environment, policymakers should be looking at situations in specific universities and support future applicants prior to admission.
 
-**Poor Environment**
+## Poor Environment
 
 The environment plays a defining role in a person&#39;s development, but it might be even more critical than previously thought. The experience as early as kindergarten can have a lasting impact on one&#39;s earnings, degree attainment, and financial stability. The study by opportunity insights has found that the quality of kindergarten experience improves a person&#39;s income by 3.5% in the future, correlates to degree attainment, and whether one has a house and retirement savings. The mechanics of this are not straightforward, as test results fade away in few years; however, the researchers concluded that preschool experience forms the critical cognitive skill set, which includes concentration, effort, initiative, and confidence that persists throughout the school years and later in life. Undeniably, having a professional kindergarten teacher and a thriving environment translates to future success in life. (33) Unfortunately, good kindergarten is expensive, and minorities cannot afford it. The disadvantage is especially pronounced for Hispanic children, with only 55% of children going to a kindergarten. (16)
 
@@ -85,7 +85,7 @@ Another study examined the connection of mother&#39;s first birth age to kid&#39
 
 In combination with the figure 8 and figure 2, it becomes evident that many children of black and Hispanic origin are born by mothers before 25 years old while the white and Asian population is skewed towards the older ages, which provides the advantage to their children. Additionally, black (65%) and Hispanic (40%) children are twice as likely to live in a single-parent family as white (21%). Because black and Hispanic children are born in low-income brackets by young and very often single mothers, they have fewer resources to succeed. (28)
 
-**SAT**
+## SAT
 
 Standardized tests are used all across the world to make admission to distant universities accessible to everyone. In Russia, the Unified State Exam (USE) was created to give every bright kid from a village, remote city equal opportunity to receive the best education. USE became an escape hatch for everyone who could show academic proficiency. Unfortunately, such wonder is impossible in the U.S. because of the extensive history of racism. Today, the SAT is best suited for predicting one&#39;s race rather than academic proficiency.
 
@@ -113,7 +113,7 @@ Another way to grade a student is to look at &quot;Strength of curriculum,&quot;
 
 A high school GPA is a valid admissions criterion as it remains the strongest predictor of a student&#39;s college performance. Usage of &quot;weighted&quot; GPA with additional points from A.P. classes is unnecessary as it provides _so_ little while creating a disadvantage for students of color.
 
-**Solutions**
+## Solutions
 
 The situation with education inequality cannot be solved naturally as it perpetuates itself: minorities were pushed into the lower class through years of segregation and racism. They cannot receive an education because they cannot pay for it, and they cannot afford it because they are in the lower class because they cannot afford education. Without outside intervention, it would take many generations to erase such a pattern. There is a number of solutions that can be implemented today.
 
@@ -137,7 +137,7 @@ Lastly, preventing early pregnancy and providing child support is a necessary me
 
 In conclusion, racial inequality in education is not an isolated problem. Like many other struggles, it comes from years of oppression and systematic racism, pushing the minorities into the lowest income brackets. Lack of education and financial resources predict the future of children born to minorities. The problem will not solve itself with time without outside intervention. It is our duty as a society to create equal opportunities for those that are at a disadvantage.
 
-# Bibliography
+## Bibliography
 
 1. -. (n.d.). _Americans Instrumental in Establishing Standardized Tests._ Retrieved from PBS: https://www.pbs.org/wgbh/pages/frontline/shows/sats/where/three.html
 2. (2016). _Advancing Diversity and Inclusion in Higher Education._ Office of Planning, Evaluation and Policy Development Office of the Under Secretary U.S. Department of Education. https://www2.ed.gov/rschstat/research/pubs/advancing-diversity-inclusion.pdf
