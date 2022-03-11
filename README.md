@@ -15,6 +15,7 @@ December 3, 2020
 The United States of America was built on the values of equality and liberty for all. Do not confuse the American understanding of equality with the European notion of &quot;Everyone ending up equal,&quot; which implies an equal status, income, et cetera. In the U.S., people are given liberty to end up where ever their abilities, work ethics, and ambitions take them, meaning unequal. For that reason, NBA league players earn significantly more than doctors and software engineers. This idea is what makes the American dream possible — the self-made person who achieved wealth and high status through their hard work and dedication. Clearly, social mobility is essential for the U.S. to support its values. Nevertheless, does everyone have the same opportunity to use the gift of liberty?
 
 ![](assets/image001.png)
+
 _Figure 1 source: 43 GDIM. 2018._
 
 First, let us examine the meaning of social mobility. Social mobility is a change in social status relative to one&#39;s current social location within a given society_._ In absolute terms, social mobility can be understood as an individual&#39;s movement in income and occupation. In relative, it is associated with opportunities for progression within the society. There are two approaches to understanding social mobility: a sociological one looks at society as at an occupational hierarchy, while the economic tradition focuses on income groups. For clarity, movement between income groups will be used as a measure of social mobility.
@@ -22,12 +23,15 @@ First, let us examine the meaning of social mobility. Social mobility is a chang
 It has been getting progressively harder for people in the lower half of income distribution to make their way up the social ladder. Looking at figure 1, a person born in the 1980-s into the lower half of income has a 32% chance of breaking into the upper half. It would be a 50-50 split in a perfect world, but, in reality, being born into the lowest Quantiles is a significant disadvantage. The chances to transfer into the upper half have been steadily decreasing from 39% for those born in the 1940-s to 32% for those born in the 1980s. Another dawning observation is that the lower half is much likely to end up in Q4 than Q3, suggesting downward mobility for those born in the lower half - poor are getting poorer. However, who is affected the most by such a trend?
 
 ![](assets/image002.png)
+
 _Figure 2 source: https://opportunityinsights.org/data/_
 
 Figure 2 shows the percentage difference from the fair 10% (if there was no inequality) of the number of children born in an income decile. For example, the last graph shows that a black kid has a 19% chance to be born into the lowest decile, which is 9% bigger than a fair 10%. In other words, bars above the zero before the half-line show disadvantage, and bars above the zero after the half-line show privilege. Figure 2 shows the unequal opportunities children are born into. Black and Hispanic are likely to be born into the lowest half, while a white kid has a high probability of being born into the highest deciles. For Asians, spikes on both ends are characterized by a massive inflow of educated professionals on the right end and American born Asians on the left end.
 
 ![](assets/image003.png)
+
 ![](assets/image004.png)
+
 _Figure 3 source: 52_
 
 The trend observation is further reinforced by income distribution by race (Figure 3), with blacks and Hispanics sitting at the lower end of income than the white population. Three observations combined tell a sad story of a pitfall for the black and Hispanic population. For them, it is almost impossible to achieve higher income as most of them are born poor.
@@ -37,10 +41,12 @@ However, what can be done to increase the mobility of the lower ends of the dist
 One of the best social lifts is higher education. Students that attended the same college have similar earning in adulthood regardless of their background. Statistically, children from lower-income brackets are significantly less likely to leave their income bracket and to reach the top Quintiles of the income distribution than their wealthier counterparts. But when comparing students at the same university, inequality almost disappears, especially at highly selective colleges. This fact implies that poor students are not inferior at these elite institutions and that an increasing number of low-income students attending them would help even the income gap for minorities. _(17)_
 
 ![](assets/image005.png)
+
 _Figure 4 source: 52_
 Figure 4 shows the share of different races attending colleges. The progress from 1996 to 2016 is very notable as the percentage of minority students has dramatically increased. However, this is only a small part of the picture. the completion rate for black people is significantly lower at the 40% mark than for white or Hispanic, 62%, and 52%, respectively. (15) This fact mitigates the increased enrollment rate and brings a new problem: after we get more black people to attend college, how do we make them stay?
 
 ![](assets/image008.png)
+
 _Figure 5 source: 22 https://nscresearchcenter.org/hsbenchmarks2016/_
 
 Astudy &quot;High school Benchmarks – 2016&quot; found that despite the growing accessibility of education, the completion rate is devastating for graduates of high-minority, where at least 40% of students are black or Hispanic, and high-poverty schools, where at least 75% of the student population are eligible for free or reduced lunch. (figure 5) (22) In addition, bachelor degree completion is 41% for black, 54% for Hispanic, and 63% and 71% for white and Asian. (2)
@@ -72,6 +78,7 @@ As previously shown, non-Asian minorities struggle to complete their higher educ
 Another contributing factor to minority children&#39;s disadvantage is that pre-teen pregnancy is much common in non-Asian minorities or before parents have gained substantial financial ground to provide opportunities to their children. Combined with figure 2, this fact explains the spike of birth of children in the lower-income deciles. Many of the parents (Figure 8) are neither mature nor experienced enough to be able to provide for their kids. (12)
 
 ![](assets/image009.png)
+
 _Figure 6 source: 25_
 
 Another study examined the connection of mother&#39;s first birth age to kid&#39;s success in achieving a high school diploma, financial independence of public support, and delay in having a child until age 20 or older. After controlling for race and gender of the child, poverty, education, and marital status of the mothers, researchers found that children of the teenage mom were less likely to achieve success in these areas than those born by moms in the early &#39;20s. In turn, children born to mothers 25 and older were more likely to succeed than those born to mothers in their 20s. (41)
@@ -87,6 +94,7 @@ Based on the official College Board information, in admission process schools lo
 With colleges receiving as many as 70,000 admissions each season, SAT score became a crucial means in separating prospective students. It is no secret that more competitive and prestigious schools have a high SAT threshold. Moreover, many merit-based programs will require a high SAT score to calculate the grant. For example, the University of San Francisco awards merit scholarships based on SAT and high school GPA. Such a program might appear fair, but it creates fewer opportunities for minorities to get into a college and receive scholarships. (54)
 
 ![](assets/image010.png)
+
 _Figure 7 source: SAT Annual Report by College Board (2007 – 2020)_
 
 Based on almost 100 years of SAT statistics, the test has a distinct correlation between SAT score and race (Figure 7). The white/black score gap has stayed on the level at around 210 points since 1998, based on official college board reports. (53) An analysis of over a million University of California admitters from 1994 through 2011 examined the impact of race and other socioeconomic factors on SAT scores and college success. The report showcased that family income, parents&#39; education, and minority status explained 35% of SAT variance in 2011. From these three regression coefficients, the most impactful was the minority status at 0.29, followed by Parents&#39; education at 0.27 and Family income at 0.18, making race the single strongest predictor of the test&#39;s success. The finding shows that race factor is not reducible to income level and parent&#39;s education, but contains other more pronounced for the students of color factors. One possible explanation could be the home environment, quality of school education, and poor healthcare – factors that disproportionally affect black students. (19)
@@ -96,6 +104,7 @@ Not only is the SAT highly correlated with race, but also the test itself is not
 To illustrate how overly important the SAT is, consider the example: two students are identical in every aspect, but the SAT will be judged based on their test scores. If one has a 1200 SAT score, they are predicted to earn a 3.0 GPA in college while the other with 1300 is expected to earn 3.13. The error band for 1.1 million U.C. students&#39; sample was 0.82 at the 95% confidence level. In other words, performance for both students is likely to be somewhere between A- and C+.
 
 ![](assets/image011.png)
+
 _Figure 8 source: 19 https://escholarship.org/uc/item/9gs5v3pv#main_
 
 SAT-based admission intensifies racial stratification in admission. 1.1 million U.C. applicants were divided into deciles based on their test scores (figure 7). At the bottom of the applicant pool, Latino and black applicants comprise 60 percent of the lowest SAT decile but only 39 percent of the lowest High School GPA decile. Conversely, within the top decile – those likely to be admitted – Latinos and blacks comprise 12 percent of applicants when ranked by high school grades but just 5 percent when ranked by SAT scores. Using SAT scores to rank applicants produced more severe racial/ethnic stratification than if high school GPA was used.
@@ -119,6 +128,7 @@ Finally, low-cost interventions have been proven to be effective. Figure 9 shows
 One study finds that sending high-achieving, low-income students mail with information on their college options pushed them to apply to better schools. It would cost only $6 per student to increase low-income students&#39; applications to selective school by more than 30% percentage points. (50)
 
 ![](assets/image012.jpg)
+
 _Figure 9 source: 20_
 
 Money was always a problem for those looking to pursue a college degree(43), so to enhance social mobility, federal grants are essential to enable low- and middle- income students to pay for tuition. One research estimated that an increase of $1000 in college aid increases college enrollment by 3 to 6 percentage points depending on a program. Sending one student through these aid programs costs between $20000 and $30000. Compared to an increase in earning for college graduates of $30000 per year, the programs provide a net benefit for the economy. (49)
